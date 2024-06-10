@@ -8,3 +8,5 @@ Clone the repository to your local machine.
 Compile the Java source files using a Java compiler.
 
 Run the Main class to start the billing system.
+
+![image](https://github.com/kavinduindumina/Billing-System/assets/71215684/b10451b1-9a02-421d-af6e-e294b122517a)
